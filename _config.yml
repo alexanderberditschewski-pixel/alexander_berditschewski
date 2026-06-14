@@ -1,5 +1,8 @@
+github:
+  is_project_page: false
+
 title: "Alexander Berditschewski"
-description: "Portfolio | Informatik | Digital Business | Projekte"
+description: "Lebenslauf | Zeugnis | Projekte"
 
 url: "https://alexanderberditschewski-pixel.github.io"
 baseurl: "/alexander_berditschewski"
