@@ -10,23 +10,21 @@ lang: de-CH
 timezone: Europe/Zurich
 
 author:
-name: "Alexander Berditschewski"
-email: "[alexander.berditschewski@gmail.com](mailto:alexander.berditschewski@gmail.com)"
+  name: "Alexander Berditschewski"
+  email: "alexander.berditschewski@gmail.com"
 
 github_username: "alexanderberditschewski-pixel"
 
 header_pages:
-
-* cv.md
-* projects.md
-* certificates.md
-* contact.md
-* about-me.md
+  - about-me.md
+  - cv.md
+  - projects.md
+  - certificates.md
+  - contact.md
 
 plugins:
-
-* jekyll-feed
-* jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
 markdown: kramdown
 highlighter: rouge
@@ -34,9 +32,15 @@ highlighter: rouge
 show_downloads: false
 
 exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
 
-* README.md
-* Gemfile
-* Gemfile.lock
-* node_modules
-* vendor
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/images/profile.jpg"
