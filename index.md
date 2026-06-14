@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Alexander Berditschewski
 ---
 
 # 👋 Hallo, ich bin Alexander Berditschewski
