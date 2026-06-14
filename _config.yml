@@ -27,6 +27,7 @@ plugins:
   - jekyll-seo-tag
 
 markdown: kramdown
+
 highlighter: rouge
 
 show_downloads: false
