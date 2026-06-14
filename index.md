@@ -4,9 +4,10 @@ title: Home
 
 # 👋 Hallo, ich bin Alexander Berditschewski
 
-Motivierter und vielseitiger Sekundarschüler mit grossem Interesse an Informatik, neuen Technologien und der Finanzwelt.
+Motivierter und vielseitiger Sekundarschüler mit grossem Interesse an Informatik, neuen Technologien und der Finanzwelt. 
 
-Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Shopify-Onlineshops konnte ich bereits erste praktische Erfahrungen sammeln. Ich arbeite gerne selbstständig, nutze moderne KI-Tools zum Lernen und erweitere mein Wissen kontinuierlich.
+Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Shopify-Onlineshops konnte ich bereits erste praktische Erfahrungen sammeln. Ich arbeite gerne selbstständig, nutze moderne KI-Tools zum ernen und erweitere mein Wissen kontinuierlich.
+
 
 [Lebenslauf ansehen](cv.md){: .btn }
 
@@ -20,12 +21,13 @@ Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Sh
 
 ## 🚀 Interessengebiete
 
-- Informatik
+- Programmierung und Informatik
 - Künstliche Intelligenz
-- Softwareentwicklung
-- App- und Webentwicklung
+- Schwimmen
+- Radfahren
+• Luftfahrt und Technik
+• Foto- und Videobearbeitung
 - E-Commerce & Shopify
-- Digitale Innovationen
 
 ---
 
