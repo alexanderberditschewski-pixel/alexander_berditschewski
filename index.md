@@ -8,6 +8,9 @@ Motivierter und vielseitiger Sekundarschüler mit grossem Interesse an Informati
 
 Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Shopify-Onlineshops konnte ich bereits erste praktische Erfahrungen sammeln. Ich arbeite gerne selbstständig, nutze moderne KI-Tools zum ernen und erweitere mein Wissen kontinuierlich.
 
+<p align="center"> <a href="{{ site.baseurl }}/">🏠 Home</a> | <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> | <a href="{{ site.baseurl }}/cv.html"><strong>📄 Lebenslauf</strong></a> | <a href="{{ site.baseurl }}/projects.html">🚀 Projekte</a> | <a href="{{ site.baseurl }}/certificates.html">📜 Zertifikate</a> | <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> </p> 
+
+---
 
 [Lebenslauf ansehen](cv.md){: .btn }
 
