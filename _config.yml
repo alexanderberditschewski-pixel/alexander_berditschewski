@@ -19,6 +19,7 @@ author:
 github_username: "alexanderberditschewski-pixel"
 
 header_pages:
+  - index.md
   - about-me.md
   - cv.md
   - projects.md
