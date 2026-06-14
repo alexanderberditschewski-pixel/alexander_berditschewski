@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Zertifikate & Erfahrungen
 ---
@@ -57,4 +56,3 @@ Hier finden Sie eine Auswahl meiner Workshops, Schnupperlehren und praktischen E
 - Robotik-Workshop
 
 [📄 Teilnahmebestätigung herunterladen](assets/files/Google_MintPepper.pdf){: .btn }
-```
