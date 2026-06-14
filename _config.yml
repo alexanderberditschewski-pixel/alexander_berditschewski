@@ -1,7 +1,8 @@
 title: "Alexander Berditschewski"
 description: "Portfolio | Informatik | Digital Business | Projekte"
-url: "https://github.com/alexanderberditschewski-pixel/alexander_berditschewski"
-baseurl: ""
+
+url: "https://alexanderberditschewski-pixel.github.io"
+baseurl: "/alexander_berditschewski"
 
 theme: jekyll-theme-cayman
 
@@ -10,20 +11,22 @@ timezone: Europe/Zurich
 
 author:
 name: "Alexander Berditschewski"
-email: "alexander.berditschewski@gmail.com"
+email: "[alexander.berditschewski@gmail.com](mailto:alexander.berditschewski@gmail.com)"
 
-github_username: "alexander-berditschewski"
+github_username: "alexanderberditschewski-pixel"
 
 header_pages:
-  - cv.md
-  - projects.md
-  - certificates.md
-  - contact.md
-  - about-me.md
+
+* cv.md
+* projects.md
+* certificates.md
+* contact.md
+* about-me.md
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+
+* jekyll-feed
+* jekyll-seo-tag
 
 markdown: kramdown
 highlighter: rouge
@@ -32,21 +35,8 @@ show_downloads: false
 
 exclude:
 
-README.md
-Gemfile
-Gemfile.lock
-node_modules
-vendor
-defaults:
-scope:
-  path: ""
-values:
-  layout: default
-
-collections:
-projects:
-output: true
-
-seo:
-name: "Alexander Berditschewski"
-type: Person
+* README.md
+* Gemfile
+* Gemfile.lock
+* node_modules
+* vendor
