@@ -60,4 +60,3 @@ Nutzung moderner KI-Tools zum Lernen neuer Technologien, zur Problemlösung und 
 ---
 
 Vielen Dank für Ihren Besuch auf meiner Portfolio-Website!
-```
