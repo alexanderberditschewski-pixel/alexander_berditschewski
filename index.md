@@ -14,32 +14,4 @@ Mein Ziel ist es, eine Lehre als Informatiker EFZ Applikationsentwicklung oder a
 
 ---
 
-<p align="center"> <a href="#ueber-mich">👤 Über mich</a> | <a href="#bildung">🎓 Bildung</a> | <a href="#it-kenntnisse">💻 IT-Kenntnisse</a> | <a href="#projekte">🚀 Projekte</a> | <a href="#erfahrungen">🏢 Erfahrungen</a> | <a href="#staerken">⭐ Meine Stärken</a> | <a href="#sport">🏒 Sport</a> | <a href="#sprachen">🌍 Sprachen</a> | <a href="#interessen">🎯 Interessen</a> | <a href="#referenzen">📞 Referenzen</a> | <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> </p>
-
----
-
-## 🎯 Mein Ziel
-
-Mein Ziel ist es, eine Lehre als Informatiker EFZ Applikationsentwicklung oder als Entwickler/in Digitales Business zu absolvieren. Dabei möchte ich mein Interesse an Informatik, neuen Technologien und digitalen Lösungen weiter vertiefen und praktische Erfahrungen sammeln.
-
----
-
-[Lebenslauf ansehen](cv.md){: .btn }
-
-[📥Lebenslauf herunterladen](assets/files/Alexander_Berditschewski_CV.pdf){: .btn }
-
-[🚀Projekte ansehen](projects.md){: .btn }
-
-[📬Kontakt](contact.md){: .btn }
-
----
-
-
-
-## 🎯 Mein Ziel
-
-Mein Ziel ist es, eine Lehre als Informatiker EFZ Applikationsentwicklung oder als Entwickler/in Digitales Business zu absolvieren. Dabei möchte ich mein Interesse an Informatik, neuen Technologien und digitalen Lösungen weiter vertiefen und praktische Erfahrungen sammeln.
-
----
-
-Vielen Dank für Ihren Besuch auf meiner Portfolio-Website!
+<p align="center"> <a href="#ueber-mich">👤 Über mich</a> | <a href="#bildung">🎓 Bildung</a> | <a href="#it-kenntnisse">💻 IT-Kenntnisse</a> | <a href="#projekte">🚀 Projekte</a> | <a href="#erfahrungen">🏢 Erfahrungen</a> | <a href="#staerken">⭐ Meine Stärken</a> | <a href="#sport">🏒 Sport</a> | <a href="#sprachen">🌍 Sprachen</a> | <a href="#interessen">🎯 Interessen</a> | <a href="#referenzen">📞 Referenzen</a> | <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> | <a href="{{ site.baseurl }}/downloads.html"><strong>📁 Downloads</strong></a> </p>
