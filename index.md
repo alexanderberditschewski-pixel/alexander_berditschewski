@@ -8,7 +8,7 @@ Motivierter und vielseitiger Sekundarschüler mit grossem Interesse an Informati
 
 Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Shopify-Onlineshops konnte ich bereits erste praktische Erfahrungen sammeln. Ich arbeite gerne selbstständig, nutze moderne KI-Tools zum Lernen und erweitere mein Wissen kontinuierlich.
 
-[📄Lebenslauf ansehen](cv.md){: .btn }
+[Lebenslauf ansehen](cv.md){: .btn }
 
 [📥Lebenslauf herunterladen](assets/files/Alexander_Berditschewski_CV.pdf){: .btn }
 
