@@ -25,8 +25,8 @@ Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Sh
 - Künstliche Intelligenz
 - Schwimmen
 - Radfahren
-• Luftfahrt und Technik
-• Foto- und Videobearbeitung
+- Luftfahrt und Technik
+- Foto- und Videobearbeitung
 - E-Commerce & Shopify
 
 ---
