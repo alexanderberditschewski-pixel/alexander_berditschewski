@@ -32,3 +32,5 @@ Heute gehören **Schwimmen und Radfahren** zu meinen wichtigsten Freizeitaktivit
 Besonders Freude bereitet mir das Erstellen und Präsentieren von **PowerPoint-Präsentationen**. Dabei lege ich Wert auf ein ansprechendes Design, verständliche Inhalte und passende Animationen.
 
 ---
+
+<p align="center"> <a href="{{ site.baseurl }}/index.html">🏠 Home</a> | <a href="{{ site.baseurl }}/about-me.html">👤 <strong>Über mich</strong></a> | <a href="#bildung">🎓 Bildung</a> | <a href="#it-kenntnisse">💻 IT-Kenntnisse</a> | <a href="#projekte">🚀 Projekte</a> | <a href="#erfahrungen">🏢 Erfahrungen</a> | <a href="#staerken">⭐ Meine Stärken</a> | <a href="#sport">🏒 Sport</a> | <a href="#sprachen">🌍 Sprachen</a> | <a href="#interessen">🎯 Interessen</a> | <a href="#referenzen">📞 Referenzen</a> | <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> | <a href="{{ site.baseurl }}/downloads.html">📁 Downloads</a> </p>
