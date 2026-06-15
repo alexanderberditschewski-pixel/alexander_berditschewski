@@ -2,7 +2,11 @@ github:
   is_project_page: false
 
 title: "Alexander Berditschewski"
-description: "Digitale Bewerbungsmappe | Projekte, Erfahrungen und Zeugnisse"
+
+description: >
+  Bewerbung Informatiker EFZ Applikationsentwicklung &
+  Entwickler Digitales Business |
+  Digitale Bewerbungsmappe
 
 url: "https://alexanderberditschewski-pixel.github.io"
 baseurl: "/alexander_berditschewski"
@@ -18,24 +22,51 @@ author:
 
 github_username: "alexanderberditschewski-pixel"
 
+# Navigation
 header_pages:
   - index.md
   - about-me.md
   - cv.md
+  - education.md
+  - it-knowledge.md
   - projects.md
-  - certificates.md
+  - experience.md
+  - strengths.md
+  - sports.md
+  - languages.md
+  - interests.md
+  - references.md
   - contact.md
+  - downloads.md
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 markdown: kramdown
-
 highlighter: rouge
 
 show_downloads: false
 
+# SEO
+tagline: "Digitale Bewerbungsmappe"
+
+logo: "/assets/images/profile.jpg"
+
+social:
+  name: "Alexander Berditschewski"
+  links:
+    - https://github.com/alexanderberditschewski-pixel
+
+# Standardbild für Social Preview
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/images/profile.jpg"
+
+# Dateien, die nicht veröffentlicht werden sollen
 exclude:
   - README.md
   - Gemfile
@@ -43,9 +74,15 @@ exclude:
   - node_modules
   - vendor
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      image: "/assets/images/profile.jpg"
+# Kramdown Optionen
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Permalinks
+permalink: pretty
+
+# Optional für spätere Projekte
+collections:
+  projects:
+    output: true
