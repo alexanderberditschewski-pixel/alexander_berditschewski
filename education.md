@@ -56,7 +56,7 @@ Mein Ziel ist es, eine Lehre als **Informatiker EFZ Applikationsentwicklung** od
 <p align="center">
   <a href="{{ site.baseurl }}/index.html">🏠 Home</a> |
   <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
-  <a href="#bildung"><strong>🎓 Bildung</strong></a> |
+  <a href="{{ site.baseurl }}/education.html"><strong>🎓 Bildung</strong></a> |
   <a href="#it-kenntnisse">💻 IT-Kenntnisse</a> |
   <a href="#projekte">🚀 Projekte</a> |
   <a href="#erfahrungen">🏢 Erfahrungen</a> |
