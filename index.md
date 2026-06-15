@@ -14,4 +14,18 @@ Mein Ziel ist es, eine Lehre als Informatiker EFZ Applikationsentwicklung oder a
 
 ---
 
-<p align="center"> <a href="{{ site.baseurl }}/index.html"><strong>🏠 Home</strong></a> | <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> | <a href="#bildung">🎓 Bildung</a> | <a href="#it-kenntnisse">💻 IT-Kenntnisse</a> | <a href="#projekte">🚀 Projekte</a> | <a href="#erfahrungen">🏢 Erfahrungen</a> | <a href="#staerken">⭐ Meine Stärken</a> | <a href="#sport">🏒 Sport</a> | <a href="#sprachen">🌍 Sprachen</a> | <a href="#interessen">🎯 Interessen</a> | <a href="#referenzen">📞 Referenzen</a> | <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> | <a href="{{ site.baseurl }}/downloads.html">📁 Downloads</a> </p>
+<p align="center">
+  <a href="{{ site.baseurl }}/index.html"><strong>🏠 Home</strong>strong></a> |
+  <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
+  <a href="{{ site.baseurl }}/education.html">🎓 Bildung</a> |
+  <a href="{{ site.baseurl }}/it-knowledge.html">💻 IT-Kenntnisse</a> |
+  <a href="{{ site.baseurl }}/projects.html">🚀 Projekte</a> |
+  <a href="{{ site.baseurl }}/experience.html">🏢 Erfahrungen</a> |
+  <a href="{{ site.baseurl }}/strengts.html">⭐ Meine Stärken</a> |
+  <a href="{{ site.baseurl }}/sports.html">🏒 Sport</a> |
+  <a href="{{ site.baseurl }}/languages.html">🌍 Sprachen</a> |
+  <a href="{{ site.baseurl }}/interests.html">🎯 Interessen</a> |
+  <a href="{{ site.baseurl }}/references.html">📞 Referenzen</a> |
+  <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> |
+  <a href="{{ site.baseurl }}/downloads.html">📁 Downloads</a>
+</p>
