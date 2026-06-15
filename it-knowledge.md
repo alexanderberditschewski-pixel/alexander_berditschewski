@@ -109,7 +109,7 @@ Ich möchte meine Kenntnisse im Bereich Informatik kontinuierlich erweitern und 
   <a href="{{ site.baseurl }}/index.html">🏠 Home</a> |
   <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
   <a href="{{ site.baseurl }}/education.html">🎓 Bildung</a> |
-  <a href="{{ site.baseurl }}/it-knowledge.html"><strong>💻 IT-Kenntnisse</strong>strong></a> |
+  <a href="{{ site.baseurl }}/it-knowledge.html"><strong>💻 IT-Kenntnisse</strong></a> |
   <a href="{{ site.baseurl }}/projects.html">🚀 Projekte</a> |
   <a href="{{ site.baseurl }}/experience.html">🏢 Erfahrungen</a> |
   <a href="{{ site.baseurl }}/strengts.html">⭐ Meine Stärken</a> |
