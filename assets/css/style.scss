@@ -3,14 +3,22 @@
 
 @import "{{ site.theme }}";
 
+/* Kopfzeile kompakter */
 .page-header {
     padding: 1.5rem 1rem;
 }
 
+/* Name */
 .project-name {
     font-size: 2rem;
 }
 
+/* Beschreibung */
 .project-tagline {
     font-size: 1rem;
+}
+
+/* Navigation etwas kompakter */
+.main-content {
+    max-width: 72rem;
 }
