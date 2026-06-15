@@ -2,80 +2,96 @@
 title: Downloads
 ---
 
-<p align="center">
-  <a href="{{ site.baseurl }}/index.html">🏠 Home</a> |
-  <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
-  <a href="{{ site.baseurl }}/education.html">🎓 Bildung</a> |
-  <a href="{{ site.baseurl }}/it-knowledge.html">💻 IT-Kenntnisse</a> |
-  <a href="{{ site.baseurl }}/projects.html">🚀 Projekte</a> |
-  <a href="{{ site.baseurl }}/experience.html">🏢 Erfahrungen</a> |
-  <a href="{{ site.baseurl }}/strengths.html">⭐ Meine Stärken</a> |
-  <a href="{{ site.baseurl }}/sports.html">🏒 Sport</a> |
-  <a href="{{ site.baseurl }}/languages.html">🌍 Sprachen</a> |
-  <a href="{{ site.baseurl }}/interests.html">🎯 Interessen</a> |
-  <a href="{{ site.baseurl }}/references.html">📞 Referenzen</a> |
-  <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> |
-  <a href="{{ site.baseurl }}/downloads.html"><strong>📁 Downloads</strong></a>
-</p>
-
----
-
 # 📁 Downloads
-
-Auf dieser Seite finden Sie meine wichtigsten Bewerbungsunterlagen zum Herunterladen.
 
 Vielen Dank für Ihr Interesse an meiner Bewerbung.
 
+Auf dieser Seite finden Sie meine wichtigsten Bewerbungsunterlagen, Zeugnisse und Teilnahmebestätigungen.
+
 ---
 
-## 📄 Lebenslauf
-
-Aktuelle Version meines Lebenslaufs.
+# 📄 Lebenslauf
 
 [📥 Lebenslauf herunterladen](assets/files/Alexander_Berditschewski_CV.pdf)
 
 ---
 
-## 🎓 Schulzeugnisse
+# 🎓 Schulzeugnisse
 
-Aktuelle Schulzeugnisse.
+## Sekundarschule A
 
-[📥 Zeugnisse herunterladen](assets/files/Zeugnisse.pdf)
+### 1. Semester 2024 / 2025
 
----
+[📥 Zeugnis herunterladen](assets/files/Sek_A_Semester_1.1_2024_25_Zeugnis_Berditschewski_Alexander.pdf)
 
-## 📜 Zertifikate und Teilnahmebestätigungen
+### 2. Semester 2024 / 2025
 
-Zertifikate, Workshopbestätigungen und Nachweise zu Schnupperlehren.
+[📥 Zeugnis herunterladen](assets/files/Sek_A_Semester_1.2_2024_25_Zeugnis_Berditschewski_Alexander.pdf)
 
-[📥 Zertifikate herunterladen](assets/files/Zertifikate.pdf)
+### 1. Semester 2025 / 2026
 
----
-
-## 📦 Komplettes Bewerbungsdossier
-
-Lebenslauf, Zeugnisse und Zertifikate in einer Datei.
-
-[📥 Bewerbungsdossier herunterladen](assets/files/Bewerbungsdossier.pdf)
+[📥 Zeugnis herunterladen](assets/files/Sek_A_Semester_2.1_2025_26_Zeugnis_Berditschewski_Alexander.pdf)
 
 ---
 
-## 🗂️ Dokumentenübersicht
+# 🏢 Schnupperlehren & Berufserfahrungen
 
-| Dokument | Beschreibung |
-|-----------|-------------|
-| Lebenslauf | Übersicht über Ausbildung, Erfahrungen und Fähigkeiten |
-| Zeugnisse | Schulische Leistungen |
-| Zertifikate | Workshops, Kurse und Schnupperlehren |
-| Bewerbungsdossier | Alle Unterlagen in einer Datei |
+## UBS – Informatik
+
+[📥 Teilnahmebestätigung herunterladen](assets/files/UBS_Schnupperlehre_AlexanderB_2026.pdf)
+
+### Inhalte
+
+- Entwicklung eines KI-Chatbots
+- Einblicke in die Applikationsentwicklung
+- Moderne Technologien im Bankenumfeld
 
 ---
 
-## ℹ️ Hinweis
+## Siemens – Applikationsentwicklung EFZ
 
-Sollten weitere Unterlagen benötigt werden, stelle ich diese gerne auf Anfrage zur Verfügung.
+[📥 Teilnahmebestätigung herunterladen](assets/files/Siemens_Schnupperlehre_AlexanderB_2026.pdf)
 
-Vielen Dank für Ihr Interesse an meiner Bewerbung.
+### Inhalte
+
+- Android-App Entwicklung
+- Kotlin
+- XML
+- Android Studio
+
+---
+
+# 📜 Workshops & Teilnahmebestätigungen
+
+## Julius Bär – IT Workshop
+
+[📥 Teilnahmebestätigung herunterladen](assets/files/JB_Teilnahmebestätigung_IT_AlexanderB_2026.pdf)
+
+---
+
+## Zürich Versicherung – Informatik Workshop
+
+[📥 Teilnahmebestätigung herunterladen](assets/files/Zurich_Teilnahmebestätigung_AlexanderB_2026.pdf)
+
+---
+
+## Swiss Berufserkundung
+
+[📥 Teilnahmebestätigung herunterladen](assets/files/Swiss_Berufserkundung_AlexanderB_2025.pdf)
+
+---
+
+# ⭐ Weitere Dokumente
+
+## Tastaturschreiben
+
+[📥 Zeugnis herunterladen](assets/files/Tastaturschreiben_Zeugnis_AlexanderB_20250523.pdf)
+
+---
+
+# 📦 Komplettes Bewerbungsdossier
+
+Alle Dokumente können auf Anfrage auch als vollständiges Bewerbungsdossier zur Verfügung gestellt werden.
 
 ---
 
