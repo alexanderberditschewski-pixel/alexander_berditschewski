@@ -15,7 +15,7 @@ Mein Ziel ist es, eine Lehre als Informatiker EFZ Applikationsentwicklung oder a
 ---
 
 <p align="center">
-  <a href="{{ site.baseurl }}/index.html"><strong>🏠 Home</strong>strong></a> |
+  <a href="{{ site.baseurl }}/index.html"><strong>🏠 Home</strong></a> |
   <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
   <a href="{{ site.baseurl }}/education.html">🎓 Bildung</a> |
   <a href="{{ site.baseurl }}/it-knowledge.html">💻 IT-Kenntnisse</a> |
