@@ -2,20 +2,6 @@
 title: Erfahrungen
 ---
 
-<p align="center">
-  <a href="{{ site.baseurl }}/index.html">🏠 Home</a> |
-  <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
-  <a href="{{ site.baseurl }}/education.html">🎓 Bildung</a> |
-  <a href="{{ site.baseurl }}/it-knowledge.html">💻 IT-Kenntnisse</a> |
-  <a href="{{ site.baseurl }}/projects.html">🚀 Projekte</a> |
-  <a href="{{ site.baseurl }}/experience.html"><strong>🏢 Erfahrungen</strong></a> |
-  <a href="{{ site.baseurl }}/strengths.html">⭐ Meine Stärken</a> |
-  <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> |
-  <a href="{{ site.baseurl }}/downloads.html">📁 Downloads</a>
-</p>
-
----
-
 # 🏢 Erfahrungen
 
 Durch verschiedene Schnupperlehren, Workshops und Berufseinblicke konnte ich bereits wertvolle Erfahrungen in unterschiedlichen Unternehmen und Berufsfeldern sammeln. Dabei erhielt ich Einblicke in die Informatik, die Finanzwelt sowie weitere technische und kaufmännische Berufe.
