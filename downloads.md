@@ -6,92 +6,51 @@ title: Downloads
 
 Vielen Dank für Ihr Interesse an meiner Bewerbung.
 
-Auf dieser Seite finden Sie meine wichtigsten Bewerbungsunterlagen, Zeugnisse und Teilnahmebestätigungen.
+Hier finden Sie meine wichtigsten Bewerbungsunterlagen, Schulzeugnisse sowie Teilnahmebestätigungen von Schnupperlehren, Workshops und Berufserkundungen.
 
 ---
 
-# 📄 Lebenslauf
+## 📄 Lebenslauf
 
 [📥 Lebenslauf herunterladen](assets/files/Alexander_Berditschewski_CV.pdf)
 
 ---
 
-# 🎓 Schulzeugnisse
+## 🎓 Schulzeugnisse
 
-## Sekundarschule A
+- [📥 1. Semester 2025 / 2026](assets/files/Sek_A_Semester_2.1_2025_26_Zeugnis_Berditschewski_Alexander.pdf)
 
-### 1. Semester 2024 / 2025
+- [📥 2. Semester 2024 / 2025](assets/files/Sek_A_Semester_1.2_2024_25_Zeugnis_Berditschewski_Alexander.pdf)
 
-[📥 Zeugnis herunterladen](assets/files/Sek_A_Semester_1.1_2024_25_Zeugnis_Berditschewski_Alexander.pdf)
-
-### 2. Semester 2024 / 2025
-
-[📥 Zeugnis herunterladen](assets/files/Sek_A_Semester_1.2_2024_25_Zeugnis_Berditschewski_Alexander.pdf)
-
-### 1. Semester 2025 / 2026
-
-[📥 Zeugnis herunterladen](assets/files/Sek_A_Semester_2.1_2025_26_Zeugnis_Berditschewski_Alexander.pdf)
+- [📥 1. Semester 2024 / 2025](assets/files/Sek_A_Semester_1.1_2024_25_Zeugnis_Berditschewski_Alexander.pdf)
 
 ---
 
-# 🏢 Schnupperlehren & Berufserfahrungen
+## 🏢 Schnupperlehren & Workshops
 
-## UBS – Informatik
+- [📥 UBS – IT Entwicklung Digitales Business EFZ](assets/files/UBS_Schnupperlehre_AlexanderB_2026.pdf)
 
-[📥 Teilnahmebestätigung herunterladen](assets/files/UBS_Schnupperlehre_AlexanderB_2026.pdf)
+- [📥 Siemens – Informatiker/in EFZ Applikationsentwicklung](assets/files/Siemens_Schnupperlehre_AlexanderB_2026.pdf)
 
-### Inhalte
+- [📥 Julius Bär – Informatiker/in EFZ Applikationsentwicklung](assets/files/JB_Teilnahmebestätigung_IT_AlexanderB_2026.pdf)
 
-- Entwicklung eines KI-Chatbots
-- Einblicke in die Applikationsentwicklung
-- Moderne Technologien im Bankenumfeld
+- [📥 Zürich Versicherung – Informatiker/in EFZ Applikationsentwicklung](assets/files/Zurich_Teilnahmebestätigung_AlexanderB_2026.pdf)
 
----
-
-## Siemens – Applikationsentwicklung EFZ
-
-[📥 Teilnahmebestätigung herunterladen](assets/files/Siemens_Schnupperlehre_AlexanderB_2026.pdf)
-
-### Inhalte
-
-- Android-App Entwicklung
-- Kotlin
-- XML
-- Android Studio
+- [📥 Swiss International Air Lines – Berufserkundung](assets/files/Swiss_Berufserkundung_AlexanderB_2025.pdf)
 
 ---
 
-# 📜 Workshops & Teilnahmebestätigungen
+## 🏅 Weitere Zertifikate
 
-## Julius Bär – IT Workshop
-
-[📥 Teilnahmebestätigung herunterladen](assets/files/JB_Teilnahmebestätigung_IT_AlexanderB_2026.pdf)
+- [📥 Tastaturschreiben](assets/files/Tastaturschreiben_Zeugnis_AlexanderB_20250523.pdf)
 
 ---
 
-## Zürich Versicherung – Informatik Workshop
+## ℹ️ Hinweis
 
-[📥 Teilnahmebestätigung herunterladen](assets/files/Zurich_Teilnahmebestätigung_AlexanderB_2026.pdf)
+Weitere Unterlagen oder Informationen stelle ich gerne auf Anfrage zur Verfügung.
 
----
-
-## Swiss Berufserkundung
-
-[📥 Teilnahmebestätigung herunterladen](assets/files/Swiss_Berufserkundung_AlexanderB_2025.pdf)
-
----
-
-# ⭐ Weitere Dokumente
-
-## Tastaturschreiben
-
-[📥 Zeugnis herunterladen](assets/files/Tastaturschreiben_Zeugnis_AlexanderB_20250523.pdf)
-
----
-
-# 📦 Komplettes Bewerbungsdossier
-
-Alle Dokumente können auf Anfrage auch als vollständiges Bewerbungsdossier zur Verfügung gestellt werden.
+Vielen Dank für Ihr Interesse an meiner Bewerbung.
 
 ---
 
