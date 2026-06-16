@@ -8,15 +8,23 @@ Durch Schule, Sport, Schnupperlehren und eigene Projekte konnte ich verschiedene
 
 ---
 
-## 🧠 Lernbereitschaft und Neugier
+## 🤝 Teamfähigkeit und Durchhaltevermögen
 
-Ich interessiere mich für Informatik, neue Technologien und die Finanzwelt. Neue Themen motivieren mich, mich selbstständig einzuarbeiten und mein Wissen kontinuierlich zu erweitern.
+Während meiner langjährigen Zeit beim EHC Bülach habe ich gelernt, Verantwortung zu übernehmen, im Team zu arbeiten und mit Erfolgen sowie Rückschlägen umzugehen. Dabei entwickelte ich Disziplin, Durchhaltevermögen und Zuverlässigkeit.
 
 ---
 
-## 💡 Selbstständigkeit und Eigeninitiative
+## 💡 Selbstständigkeit, Eigeninitiative und Lernbereitschaft
 
-Mit meinem eigenen Shopify-Onlineshop sammle ich praktische Erfahrungen im Bereich E-Commerce und digitale Technologien. Dabei lerne ich, Probleme selbstständig zu lösen und neue Werkzeuge eigenständig zu erarbeiten.
+Ich eigne mir neue Kenntnisse gerne selbstständig an und setze diese direkt in eigenen Projekten um. So habe ich beispielsweise meine digitale Bewerbungsmappe mit GitHub Pages erstellt und einen eigenen Shopify-Onlineshop aufgebaut.
+
+Dabei lerne ich, Herausforderungen eigenständig anzugehen, passende Lösungen zu finden und mein Wissen kontinuierlich zu erweitern.
+
+---
+
+## 🔄 Vielseitigkeit und Anpassungsfähigkeit
+
+Durch verschiedene Schnupperlehren bei UBS, Julius Bär, Siemens und Zürich Versicherung habe ich gelernt, mich schnell auf neue Situationen, Aufgaben und Menschen einzustellen.
 
 ---
 
@@ -26,39 +34,9 @@ Besonders gerne analysiere ich Probleme und suche nach passenden Lösungen. Dies
 
 ---
 
-## 🔄 Vielseitigkeit und Anpassungsfähigkeit
-
-Durch verschiedene Schnupperlehren bei Unternehmen wie UBS, Julius Bär, Siemens und Zürich Versicherung habe ich gelernt, mich schnell auf neue Situationen, Aufgaben und Menschen einzustellen.
-
----
-
-## 🤝 Teamfähigkeit und Verantwortung
-
-Während meiner langjährigen Zeit beim EHC Bülach habe ich gelernt, Verantwortung zu übernehmen und gemeinsam mit anderen auf Ziele hinzuarbeiten. Teamarbeit und gegenseitige Unterstützung sind für mich wichtige Werte.
-
----
-
-## 🏒 Umgang mit Erfolgen und Niederlagen
-
-Der Eishockeysport hat mir gezeigt, wie wichtig Durchhaltevermögen, Disziplin und ein positiver Umgang mit Rückschlägen sind. Erfolge motivieren mich, und Niederlagen helfen mir, daraus zu lernen und mich weiterzuentwickeln.
-
----
-
-## 🎨 Kreativität und Präsentationsfähigkeit
-
-Besonders Freude bereitet mir das Erstellen und Präsentieren von PowerPoint-Präsentationen. Dabei lege ich Wert auf:
-
-- Ansprechendes Design
-- Verständliche Inhalte
-- Sinnvolle Animationen
-- Klare Struktur
-- Professionelle Darstellung von Informationen
-
----
-
 ## 🤖 Umgang mit Künstlicher Intelligenz
 
-Ich nutze moderne KI-Tools regelmässig zur Unterstützung beim Lernen und bei eigenen Projekten.
+Ich nutze moderne KI-Tools wie ChatGPT und Claude regelmässig zur Unterstützung beim Lernen und bei eigenen Projekten.
 
 Dabei habe ich gelernt:
 
@@ -69,24 +47,24 @@ Dabei habe ich gelernt:
 
 ---
 
-## 🎯 Mein Anspruch
+## 🎨 Kreativität und Präsentationsfähigkeit
 
-Ich möchte mich fachlich und persönlich kontinuierlich weiterentwickeln. Besonders wichtig sind mir Lernbereitschaft, Offenheit, Zuverlässigkeit und die Freude daran, neue Herausforderungen anzunehmen.
+Besonders Freude bereitet mir das Erstellen und Präsentieren von PowerPoint-Präsentationen. Dabei lege ich Wert auf eine klare Struktur, verständliche Inhalte und ein ansprechendes Design.
 
 ---
 
 <p align="center">
-  <a href="{{ site.baseurl }}/index.html">🏠 Home</a> |
-  <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
-  <a href="{{ site.baseurl }}/education.html">🎓 Bildung</a> |
-  <a href="{{ site.baseurl }}/it-knowledge.html">💻 IT-Kenntnisse</a> |
-  <a href="{{ site.baseurl }}/projects.html">🚀 Projekte</strong></a> |
-  <a href="{{ site.baseurl }}/experience.html">🏢 Erfahrungen</a> |
-  <a href="{{ site.baseurl }}/strengts.html"><strong>⭐ Meine Stärken</strong></a> |
-  <a href="{{ site.baseurl }}/sports.html">🏒 Sport</a> |
-  <a href="{{ site.baseurl }}/languages.html">🌍 Sprachen</a> |
-  <a href="{{ site.baseurl }}/interests.html">🎯 Interessen</a> |
-  <a href="{{ site.baseurl }}/references.html">📞 Referenzen</a> |
-  <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> |
-  <a href="{{ site.baseurl }}/downloads.html">📁 Downloads</a>
+  <a href="{{ site.baseurl }}/index/">🏠 Home</a> |
+  <a href="{{ site.baseurl }}/about-me/">👤 Über mich</a> |
+  <a href="{{ site.baseurl }}/education/">🎓 Bildung</a> |
+  <a href="{{ site.baseurl }}/it-knowledge/">💻 IT-Kenntnisse</a> |
+  <a href="{{ site.baseurl }}/projects/">🚀 Projekte</a> |
+  <a href="{{ site.baseurl }}/experience/">🏢 Erfahrungen</a> |
+  <a href="{{ site.baseurl }}/strengths/"><strong>⭐ Meine Stärken</strong></a> |
+  <a href="{{ site.baseurl }}/sports/">🏒 Sport</a> |
+  <a href="{{ site.baseurl }}/languages/">🌍 Sprachen</a> |
+  <a href="{{ site.baseurl }}/interests/">🎯 Interessen</a> |
+  <a href="{{ site.baseurl }}/references/">📞 Referenzen</a> |
+  <a href="{{ site.baseurl }}/contact/">📬 Kontakt</a> |
+  <a href="{{ site.baseurl }}/downloads/">📁 Downloads</a>
 </p>
