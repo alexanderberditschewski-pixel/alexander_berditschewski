@@ -18,11 +18,7 @@ Hier finden Sie meine wichtigsten Bewerbungsunterlagen, Schulzeugnisse sowie Tei
 
 ## 🎓 Schulzeugnisse
 
-- [📥 1. Semester 2025 / 2026](assets/files/Sek_A_Semester_2.1_2025_26_Zeugnis_Berditschewski_Alexander.pdf)
-
-- [📥 2. Semester 2024 / 2025](assets/files/Sek_A_Semester_1.2_2024_25_Zeugnis_Berditschewski_Alexander.pdf)
-
-- [📥 1. Semester 2024 / 2025](assets/files/Sek_A_Semester_1.1_2024_25_Zeugnis_Berditschewski_Alexander.pdf)
+Schulzeugnisse werden auf Anfrage gerne zur Verfügung gestellt.
 
 ---
 
