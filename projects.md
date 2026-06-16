@@ -8,27 +8,59 @@ Auf dieser Seite stelle ich einige Projekte vor, an denen ich gearbeitet habe. D
 
 ---
 
+## 🌐 Digitale Bewerbungsmappe mit GitHub Pages
+
+### Projektbeschreibung
+
+Für meine Bewerbungen als Informatiker EFZ Applikationsentwicklung und Entwickler Digitales Business habe ich eine eigene digitale Bewerbungsmappe entwickelt und veröffentlicht.
+
+Die Website wurde mit GitHub Pages erstellt und enthält meinen Lebenslauf, Informationen zu meinen Projekten, Berufserfahrungen, IT-Kenntnissen sowie weitere Bewerbungsunterlagen.
+
+### Was ich gelernt habe
+
+- Eine Website selbstständig erstellen und veröffentlichen
+- Mit GitHub arbeiten
+- Inhalte übersichtlich strukturieren
+- Technische Probleme analysieren und lösen
+- Eine benutzerfreundliche Website gestalten
+- KI-Tools wie ChatGPT und Claude gezielt zur Unterstützung bei Entwicklung, Recherche und Problemlösung einsetzen
+- Ergebnisse von KI-Tools kritisch prüfen und anwenden
+
+### Verwendete Technologien
+
+- GitHub
+- GitHub Pages
+- Markdown
+- HTML
+- CSS
+- ChatGPT
+- Claude
+
+### Projektlink
+
+🔗 Digitale Bewerbungsmappe auf GitHub Pages
+
+---
+
 ## 🛒 Shopify-Onlineshop
 
 ### Projektbeschreibung
 
-Aktuell entwickle ich einen eigenen Onlineshop mit Shopify. Dabei beschäftige ich mich mit E-Commerce, digitalem Marketing und der Gestaltung benutzerfreundlicher Webseiten.
+Ich entwickle einen eigenen Onlineshop mit Shopify und sammle dabei praktische Erfahrungen im Bereich E-Commerce und digitale Technologien.
 
 ### Was ich gelernt habe
 
-- Aufbau und Verwaltung eines Onlineshops
-- Gestaltung von Benutzeroberflächen
-- Produktmanagement
-- Problemlösung mit digitalen Werkzeugen
-- Grundlagen des E-Commerce
-- Selbstständiges Arbeiten an einem längerfristigen Projekt
+- Einen Onlineshop erstellen und verwalten
+- Produkte und Inhalte pflegen
+- Probleme selbstständig lösen
+- Mit digitalen Werkzeugen arbeiten
+- Eigenverantwortlich an einem Projekt arbeiten
 
 ### Verwendete Technologien
 
 - Shopify
-- KI-Tools
 - Canva
-- Webbasierte Anwendungen
+- KI-Tools
 
 ---
 
@@ -114,17 +146,17 @@ Alle Projekte haben mir gezeigt, wie wichtig Neugier, Eigeninitiative und kontin
 ---
 
 <p align="center">
-  <a href="{{ site.baseurl }}/index.html">🏠 Home</a> |
-  <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
-  <a href="{{ site.baseurl }}/education.html">🎓 Bildung</a> |
-  <a href="{{ site.baseurl }}/it-knowledge.html">💻 IT-Kenntnisse</a> |
-  <a href="{{ site.baseurl }}/projects.html"><strong>🚀 Projekte</strong></a> |
-  <a href="{{ site.baseurl }}/experience.html">🏢 Erfahrungen</a> |
-  <a href="{{ site.baseurl }}/strengts.html">⭐ Meine Stärken</a> |
-  <a href="{{ site.baseurl }}/sports.html">🏒 Sport</a> |
-  <a href="{{ site.baseurl }}/languages.html">🌍 Sprachen</a> |
-  <a href="{{ site.baseurl }}/interests.html">🎯 Interessen</a> |
-  <a href="{{ site.baseurl }}/references.html">📞 Referenzen</a> |
-  <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> |
-  <a href="{{ site.baseurl }}/downloads.html">📁 Downloads</a>
+  <a href="{{ site.baseurl }}/index/">🏠 Home</a> |
+  <a href="{{ site.baseurl }}/about-me/">👤 Über mich</a> |
+  <a href="{{ site.baseurl }}/education/">🎓 Bildung</a> |
+  <a href="{{ site.baseurl }}/it-knowledge/">💻 IT-Kenntnisse</a> |
+  <a href="{{ site.baseurl }}/projects/"><strong>🚀 Projekte</strong></a> |
+  <a href="{{ site.baseurl }}/experience/">🏢 Erfahrungen</a> |
+  <a href="{{ site.baseurl }}/strengths/">⭐ Meine Stärken</a> |
+  <a href="{{ site.baseurl }}/sports/">🏒 Sport</a> |
+  <a href="{{ site.baseurl }}/languages/">🌍 Sprachen</a> |
+  <a href="{{ site.baseurl }}/interests/">🎯 Interessen</a> |
+  <a href="{{ site.baseurl }}/references/">📞 Referenzen</a> |
+  <a href="{{ site.baseurl }}/contact/">📬 Kontakt</a> |
+  <a href="{{ site.baseurl }}/downloads/">📁 Downloads</a>
 </p>
