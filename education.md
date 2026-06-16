@@ -13,7 +13,7 @@ Meine schulische Laufbahn hat mir eine gute Grundlage für meine zukünftige Aus
 **Seit August 2024**
 
 - Besuch der Sekundarschule A
-- Besonderes Interesse an Informatik und Technologie
+- Besonderes Interesse an Informatik, Technologie, Geometrie und der englischen Sprache
 - Regelmässige Arbeit mit digitalen Werkzeugen und Präsentationen
 - Teilnahme an verschiedenen Schnupperlehren und Informatik-Workshops
 - Umsetzung eigener Projekte wie eines Shopify-Onlineshops und einer digitalen Bewerbungsmappe
