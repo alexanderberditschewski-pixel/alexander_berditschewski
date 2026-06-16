@@ -8,32 +8,6 @@ Auf Wunsch stelle ich gerne Referenzpersonen zur Verfügung, die Auskunft über 
 
 ---
 
-## 👨‍🏫 Klassenlehrer
-
-### Ursin Waldvogel
-
-Klassenlehrer an der Sekundarschule Stadel
-
-📞 079 957 34 28
-
-✉️ waldvogelu@sek-stadel.ch
-
----
-
-## ℹ️ Hinweis
-
-Bitte kontaktieren Sie Referenzpersonen vorzugsweise nach vorheriger Rücksprache mit mir.
-
-Vielen Dank für Ihr Verständnis.
-
----
-
-## 🤝 Weitere Referenzen
-
-Weitere Referenzen aus Schnupperlehren, Workshops oder Projekten können bei Bedarf gerne nachgereicht werden.
-
----
-
 <p align="center">
   <a href="{{ site.baseurl }}/index.html">🏠 Home</a> |
   <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
