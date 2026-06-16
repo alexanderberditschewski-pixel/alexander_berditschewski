@@ -18,7 +18,7 @@ Hier finden Sie meine wichtigsten Bewerbungsunterlagen, Schulzeugnisse sowie Tei
 
 ## 🎓 Schulzeugnisse
 
-Schulzeugnisse werden auf Anfrage gerne zur Verfügung gestellt.
+Schulzeugnisse stelle ich interessierten Lehrbetrieben gerne auf Anfrage zur Verfügung.
 
 ---
 
