@@ -4,21 +4,23 @@ title: Downloads
 
 # 📁 Downloads
 
-Vielen Dank für Ihr Interesse an meiner Bewerbung.
+> ℹ️ **Hinweis**
+>
+> Diese Website enthält eine öffentliche Version meiner Bewerbungsunterlagen.
+>
+> Vollständige Bewerbungsunterlagen mit Referenzen und weiteren Nachweisen stelle ich interessierten Lehrbetrieben gerne direkt zur Verfügung.
+>
+> Vielen Dank für Ihr Interesse an meiner Bewerbung.
 
-Hier finden Sie meine wichtigsten Bewerbungsunterlagen, Schulzeugnisse sowie Teilnahmebestätigungen von Schnupperlehren, Workshops und Berufserkundungen.
+---
+
+Hier finden Sie meine wichtigsten Bewerbungsunterlagen sowie Teilnahmebestätigungen von Schnupperlehren, Workshops und Berufserkundungen.
 
 ---
 
 ## 📄 Lebenslauf
 
-[📥 Lebenslauf herunterladen](assets/files/Alexander_Berditschewski_CV.pdf)
-
----
-
-## 🎓 Schulzeugnisse
-
-Schulzeugnisse stelle ich interessierten Lehrbetrieben gerne auf Anfrage zur Verfügung.
+[📥 Öffentliche Version des Lebenslaufs herunterladen](assets/files/Alexander_Berditschewski_CV.pdf)
 
 ---
 
@@ -39,14 +41,6 @@ Schulzeugnisse stelle ich interessierten Lehrbetrieben gerne auf Anfrage zur Ver
 ## 🏅 Weitere Zertifikate
 
 - [📥 Tastaturschreiben](assets/files/Tastaturschreiben_Zeugnis_AlexanderB_20250523.pdf)
-
----
-
-## ℹ️ Hinweis
-
-Weitere Unterlagen oder Informationen stelle ich gerne auf Anfrage zur Verfügung.
-
-Vielen Dank für Ihr Interesse an meiner Bewerbung.
 
 ---
 
