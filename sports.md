@@ -52,16 +52,17 @@ Durch das Schwimmen trainiere ich:
 
 ## 💡 Was Sport für mich bedeutet
 
-Sport ist für mich mehr als nur Bewegung. Er vermittelt wichtige Werte, die auch im Berufsleben von Bedeutung sind:
+Sport ist für mich mehr als nur Bewegung. Er bietet mir einen wichtigen Ausgleich zum Schulalltag und hilft mir, körperlich und mental fit zu bleiben.
+
+Dabei lerne ich wichtige Eigenschaften wie:
 
 - Teamfähigkeit
-- Zuverlässigkeit
-- Einsatzbereitschaft
-- Zielorientierung
 - Disziplin
 - Durchhaltevermögen
+- Zuverlässigkeit
+- Zielorientierung
 
-Viele dieser Eigenschaften helfen mir auch in der Schule, bei Projekten und bei meinen beruflichen Zielen.
+Diese Eigenschaften helfen mir auch in der Schule, bei Projekten und bei meinen beruflichen Zielen.
 
 ---
 
