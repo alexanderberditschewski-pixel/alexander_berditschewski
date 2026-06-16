@@ -4,13 +4,15 @@ title: Alexander Berditschewski
 
 # 👋 Hallo, ich bin Alexander Berditschewski
 
-Motivierter und vielseitiger Sekundarschüler mit grossem Interesse an Informatik, neuen Technologien und der Finanzwelt. 
+Motivierter und vielseitiger Sekundarschüler mit grossem Interesse an Informatik, neuen Technologien und der Finanzwelt.
 
-Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Shopify-Onlineshops konnte ich bereits erste praktische Erfahrungen sammeln. Ich arbeite gerne selbstständig, nutze moderne KI-Tools zum ernen und erweitere mein Wissen kontinuierlich.
+Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Shopify-Onlineshops konnte ich bereits erste praktische Erfahrungen sammeln. Ich arbeite gerne selbstständig, nutze moderne KI-Tools zum Lernen und erweitere mein Wissen kontinuierlich.
 
 ## 🎯 Mein Ziel
 
 Mein Ziel ist es, eine Lehre als Informatiker EFZ Applikationsentwicklung oder als Entwickler/in Digitales Business zu absolvieren. Dabei möchte ich mein Interesse an Informatik, neuen Technologien und digitalen Lösungen weiter vertiefen und praktische Erfahrungen sammeln.
+
+Langfristig strebe ich an, nach der Lehre die Berufsmaturität (BMS) zu absolvieren, um mein Wissen weiter auszubauen und zusätzliche Möglichkeiten für meine berufliche und schulische Zukunft zu schaffen.
 
 ---
 
@@ -21,7 +23,7 @@ Mein Ziel ist es, eine Lehre als Informatiker EFZ Applikationsentwicklung oder a
   <a href="{{ site.baseurl }}/it-knowledge/">💻 IT-Kenntnisse</a> |
   <a href="{{ site.baseurl }}/projects/">🚀 Projekte</a> |
   <a href="{{ site.baseurl }}/experience/">🏢 Erfahrungen</a> |
-  <a href="{{ site.baseurl }}/strengts/">⭐ Meine Stärken</a> |
+  <a href="{{ site.baseurl }}/strengths/">⭐ Meine Stärken</a> |
   <a href="{{ site.baseurl }}/sports/">🏒 Sport</a> |
   <a href="{{ site.baseurl }}/languages/">🌍 Sprachen</a> |
   <a href="{{ site.baseurl }}/interests/">🎯 Interessen</a> |
