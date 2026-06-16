@@ -10,11 +10,9 @@ Falls Sie Fragen zu meiner Bewerbung haben oder weitere Informationen wünschen,
 
 ---
 
-## 👤 Kontakt
+## ✉️ E-Mail
 
-**Alexander Berditschewski**
-
-✉️ [alexander.berditschewski@gmail.com](mailto:alexander.berditschewski@gmail.com)
+[alexander.berditschewski@gmail.com](mailto:alexander.berditschewski@gmail.com)
 
 ---
 
