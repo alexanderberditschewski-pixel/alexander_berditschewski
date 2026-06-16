@@ -4,7 +4,7 @@ title: Sport
 
 # 🏒 Sport
 
-Sport spielt in meinem Leben eine wichtige Rolle. Er hilft mir, körperlich aktiv zu bleiben, neue Ziele zu erreichen und wichtige persönliche Eigenschaften wie Disziplin, Durchhaltevermögen und Teamfähigkeit zu entwickeln.
+Sport spielt in meinem Leben eine wichtige Rolle. Er hilft mir, körperlich aktiv zu bleiben, neue Ziele zu erreichen und wichtige Eigenschaften wie Disziplin, Durchhaltevermögen und Teamfähigkeit zu entwickeln.
 
 ---
 
@@ -33,7 +33,7 @@ Radfahren hilft mir dabei:
 
 - Ausdauer aufzubauen
 - Konzentration zu fördern
-- Abschalten und neue Energie zu tanken
+- Neue Energie zu tanken
 
 ---
 
@@ -65,24 +65,34 @@ Viele dieser Eigenschaften helfen mir auch in der Schule, bei Projekten und bei 
 
 ---
 
-## 🎯 Mein Anspruch
+## 🎯 Meine sportlichen Ziele
 
-Beim Sport wie auch im Alltag versuche ich, mich kontinuierlich weiterzuentwickeln und mein Bestes zu geben. Dabei stehen für mich Fairness, Respekt und die Freude am Lernen und Verbessern im Mittelpunkt.
+Ich setze mir gerne persönliche Herausforderungen und arbeite Schritt für Schritt auf diese Ziele hin.
+
+In Zukunft möchte ich:
+
+- Den Zürichsee schwimmend überqueren
+- An einem Triathlon teilnehmen
+- Meine Ausdauer und Fitness kontinuierlich verbessern
+- Körperlich stärker und leistungsfähiger werden
+- Einen gesunden und sportlichen Lebensstil langfristig beibehalten
+
+Diese Ziele motivieren mich, regelmässig zu trainieren, Disziplin zu zeigen und kontinuierlich an mir zu arbeiten.
 
 ---
 
 <p align="center">
-  <a href="{{ site.baseurl }}/index.html">🏠 Home</a> |
-  <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
-  <a href="{{ site.baseurl }}/education.html">🎓 Bildung</a> |
-  <a href="{{ site.baseurl }}/it-knowledge.html">💻 IT-Kenntnisse</a> |
-  <a href="{{ site.baseurl }}/projects.html">🚀 Projekte</a> |
-  <a href="{{ site.baseurl }}/experience.html">🏢 Erfahrungen</a> |
-  <a href="{{ site.baseurl }}/strengths.html">⭐ Meine Stärken</a> |
-  <a href="{{ site.baseurl }}/sports.html"><strong>🏒 Sport</strong></a> |
-  <a href="{{ site.baseurl }}/languages.html">🌍 Sprachen</a> |
-  <a href="{{ site.baseurl }}/interests.html">🎯 Interessen</a> |
-  <a href="{{ site.baseurl }}/references.html">📞 Referenzen</a> |
-  <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> |
-  <a href="{{ site.baseurl }}/downloads.html">📁 Downloads</a>
+  <a href="{{ site.baseurl }}/index/">🏠 Home</a> |
+  <a href="{{ site.baseurl }}/about-me/">👤 Über mich</a> |
+  <a href="{{ site.baseurl }}/education/">🎓 Bildung</a> |
+  <a href="{{ site.baseurl }}/it-knowledge/">💻 IT-Kenntnisse</a> |
+  <a href="{{ site.baseurl }}/projects/">🚀 Projekte</a> |
+  <a href="{{ site.baseurl }}/experience/">🏢 Erfahrungen</a> |
+  <a href="{{ site.baseurl }}/strengths/">⭐ Meine Stärken</a> |
+  <a href="{{ site.baseurl }}/sports/"><strong>🏒 Sport</strong></a> |
+  <a href="{{ site.baseurl }}/languages/">🌍 Sprachen</a> |
+  <a href="{{ site.baseurl }}/interests/">🎯 Interessen</a> |
+  <a href="{{ site.baseurl }}/references/">📞 Referenzen</a> |
+  <a href="{{ site.baseurl }}/contact/">📬 Kontakt</a> |
+  <a href="{{ site.baseurl }}/downloads/">📁 Downloads</a>
 </p>
