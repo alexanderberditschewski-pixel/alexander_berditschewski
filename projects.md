@@ -62,7 +62,7 @@ Im Französischunterricht habe ich eine Präsentation zum Thema Skifahren erstel
 
 ### Präsentation ansehen
 
-📥 [Französisch-Präsentation Skifahren](assets/files/Ski_French.pptx)
+📥 [Französisch-Präsentation Skifahren]({{ site.baseurl }}/assets/files/Ski_French.pptx)
 
 > ℹ️ Hinweis: Die Präsentation enthält Animationen und Übergänge. Für das beste Erlebnis sollte sie im PowerPoint-Präsentationsmodus geöffnet werden.
 
