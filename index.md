@@ -24,6 +24,7 @@ Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Sh
 
 ### 🎯 Mein Ziel
 
+<br>
 Mein Ziel ist es, eine Lehre als Informatiker EFZ Applikationsentwicklung oder als Entwickler/in Digitales Business zu absolvieren. Dabei möchte ich mein Interesse an Informatik, neuen Technologien und digitalen Lösungen weiter vertiefen und praktische Erfahrungen sammeln.
 
 Langfristig strebe ich an, nach der Lehre die Berufsmaturität (BMS) zu absolvieren, um mein Wissen weiter auszubauen und zusätzliche Möglichkeiten für meine berufliche und schulische Zukunft zu schaffen.
