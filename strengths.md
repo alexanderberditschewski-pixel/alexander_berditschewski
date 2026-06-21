@@ -54,7 +54,7 @@ Dabei habe ich gelernt:
 ---
 
 <p align="center">
-  <a href="{{ site.baseurl }}/index/">🏠 Home</a> |
+  <a href="{{ site.baseurl }}/">🏠 Home</a> |
   <a href="{{ site.baseurl }}/about-me/">👤 Über mich</a> |
   <a href="{{ site.baseurl }}/education/">🎓 Bildung</a> |
   <a href="{{ site.baseurl }}/it-knowledge/">💻 IT-Kenntnisse</a> |
