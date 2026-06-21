@@ -14,8 +14,8 @@ Durch Schnupperlehren, Workshops, Schulprojekte und eigene Projekte konnte ich e
 - **Java** – Grundlagen der objektorientierten Programmierung
 - **Kotlin** – Erste Erfahrungen in der Android-Entwicklung während der Schnupperlehre bei Siemens
 - **Scratch** – Entwicklung verschiedener Schulprojekte und Spiele wie Geometry Dash, Flappy Bird, Basketball und Ping Pong
-- **Visual Studio Code** – Einrichtung und Nutzung von Entwicklungsumgebungen für Python und Java
-
+- **Entwicklungsumgebungen** – Einrichtung und Nutzung von Visual Studio Code für Python und Java
+- 
 ---
 
 ## 📱 App-Entwicklung
