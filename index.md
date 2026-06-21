@@ -4,15 +4,25 @@ title: Alexander Berditschewski
 
 # 👋 Hallo, ich bin Alexander Berditschewski
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/Bewerbungsphoto_AlexanderB.jpg"
-       alt="Alexander Berditschewski"
-       width="280">
-</p>
+<table>
+<tr>
+<td width="280" valign="top">
+
+<img src="{{ site.baseurl }}/assets/images/Bewerbungsphoto_AlexanderB.jpg"
+     alt="Alexander Berditschewski"
+     width="250">
+
+</td>
+
+<td valign="top">
 
 Motivierter und vielseitiger Sekundarschüler mit grossem Interesse an Informatik, neuen Technologien und der Finanzwelt.
 
 Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Shopify-Onlineshops konnte ich bereits erste praktische Erfahrungen sammeln. Ich arbeite gerne selbstständig, nutze moderne KI-Tools zum Lernen und erweitere mein Wissen kontinuierlich.
+
+</td>
+</tr>
+</table>
 
 ## 🎯 Mein Ziel
 
