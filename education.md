@@ -4,7 +4,7 @@ title: Bildung
 
 # 🎓 Bildung
 
-Meine schulische Laufbahn hat mir eine gute Grundlage für meine zukünftige Ausbildung im Bereich Informatik und Digital Business vermittelt. Besonders interessieren mich technische, logische und digitale Themen.
+Meine bisherige schulische Laufbahn hat mir eine solide Grundlage für meine zukünftige Ausbildung vermittelt. Besonders interessieren mich technische, logische und digitale Themen, da ich gerne Probleme analysiere, Lösungen entwickle und neue Technologien kennenlerne.
 
 ---
 
@@ -12,11 +12,11 @@ Meine schulische Laufbahn hat mir eine gute Grundlage für meine zukünftige Aus
 
 **Seit August 2024**
 
-- Besuch der Sekundarschule A
-- Besonderes Interesse an Informatik, Technologie, Geometrie und der englischen Sprache
-- Regelmässige Arbeit mit digitalen Werkzeugen und Präsentationen
+- Besuch der Sekundarschule (SEK A)
+- Starkes Interesse in den Bereichen Medien und Informatik, Naturwissenschaften, Mathematik und Englisch
+- Regelmässiger Einsatz digitaler Werkzeuge für Schulprojekte und Präsentationen
 - Teilnahme an verschiedenen Schnupperlehren und Informatik-Workshops
-- Umsetzung eigener Projekte wie eines Shopify-Onlineshops und einer digitalen Bewerbungsmappe
+- Umsetzung eigener Projekte, darunter ein Shopify-Onlineshop und diese digitale Bewerbungsmappe
 
 ---
 
@@ -24,7 +24,7 @@ Meine schulische Laufbahn hat mir eine gute Grundlage für meine zukünftige Aus
 
 **August 2018 – Juli 2024**
 
-- Erfolgreicher Abschluss der Primarschule
+- Besuch der Primarschule Neerach
 - Erste Erfahrungen mit digitalen Medien und Computern
 
 ---
