@@ -4,42 +4,42 @@ title: Erfahrungen
 
 # 🏢 Erfahrungen
 
-Durch verschiedene Schnupperlehren, Workshops und Berufseinblicke konnte ich bereits wertvolle Erfahrungen in unterschiedlichen Unternehmen und Berufsfeldern sammeln. Dabei erhielt ich Einblicke in die Informatik, die Finanzwelt sowie weitere technische und kaufmännische Berufe.
+Durch Schnupperlehren, Workshops und Berufseinblicke konnte ich bereits verschiedene Unternehmen und Berufsfelder kennenlernen. Dabei erhielt ich erste praktische Erfahrungen in der Informatik, der Finanzwelt sowie in technischen und kaufmännischen Berufen.
 
 ---
 
-## 🏦 UBS – Informatik
+## 🏦 UBS – IT Entwicklung Digitales Business EFZ
 
 ### Zukunftstag & Schnupperlehre
 
-Bei der UBS erhielt ich erste Einblicke in die Informatik einer internationalen Bank. Besonders spannend fand ich die Verbindung von Technologie und Finanzwelt.
+Bei der UBS erhielt ich erste Einblicke in die Informatik einer internationalen Bank.
 
 ### Erfahrungen
 
 - Entwicklung eines einfachen KI-Chatbots
 - Einblicke in die Applikationsentwicklung
 - Kennenlernen moderner Technologien
-- Zusammenarbeit mit Informatik-Lernenden und Fachpersonen
+- Zusammenarbeit mit Lernenden und Fachpersonen
 
 ---
 
-## 🏦 Julius Bär
+## 🏦 Julius Bär – Informatiker/in EFZ Applikationsentwicklung
 
-### Schnupperlehre
+### Workshop
 
-Während meiner Schnupperlehre bei Julius Bär erhielt ich Einblicke in die Arbeitswelt einer internationalen Privatbank.
+Bei Julius Bär erhielt ich Einblicke in die Informatik und digitale Arbeitsprozesse einer internationalen Privatbank.
 
 ### Erfahrungen
 
-- Kennenlernen digitaler Prozesse
-- Einblicke in moderne Arbeitsabläufe
+- Kennenlernen digitaler Arbeitsabläufe
+- Einblicke in Informatikberufe
 - Zusammenarbeit mit Mitarbeitenden verschiedener Bereiche
 
 ---
 
-## 🏭 Siemens
+## 🏭 Siemens – Informatiker/in EFZ Applikationsentwicklung
 
-### Schnupperlehre Applikationsentwicklung EFZ
+### Schnupperlehre
 
 Bei Siemens konnte ich erste praktische Erfahrungen in der Softwareentwicklung sammeln.
 
@@ -52,11 +52,11 @@ Bei Siemens konnte ich erste praktische Erfahrungen in der Softwareentwicklung s
 
 ---
 
-## 🏢 Zürich Versicherung
+## 🏢 Zürich Versicherung – Informatiker/in EFZ Applikationsentwicklung
 
-### Schnupperlehre Applikationsentwicklung EFZ
+### Workshop
 
-Während dieser Schnupperlehre erhielt ich Einblicke in die Softwareentwicklung und die Digitalisierung von Geschäftsprozessen.
+Während dieses Workshops erhielt ich Einblicke in die Softwareentwicklung und Digitalisierung.
 
 ### Erfahrungen
 
@@ -66,9 +66,9 @@ Während dieser Schnupperlehre erhielt ich Einblicke in die Softwareentwicklung 
 
 ---
 
-## 💻 Credit Suisse
+## 💻 Credit Suisse – Programmierworkshop
 
-### Programmierworkshop
+### Workshop
 
 Im Rahmen eines Workshops programmierte ich einen LEGO-Roboter mit Scratch.
 
@@ -77,7 +77,7 @@ Im Rahmen eines Workshops programmierte ich einen LEGO-Roboter mit Scratch.
 - Grundlagen der Programmierung
 - Logisches Denken
 - Arbeiten mit Algorithmen
-- Robotik und Automatisierung
+- Robotik
 
 ---
 
@@ -85,7 +85,7 @@ Im Rahmen eines Workshops programmierte ich einen LEGO-Roboter mit Scratch.
 
 ### Robotik-Workshop
 
-Während dieses Workshops programmierte ich einen Roboter und erhielt Einblicke in die Welt der Technologie und Robotik.
+Während dieses Workshops programmierte ich einen Roboter und erhielt erste Einblicke in Robotik und Technologie.
 
 ### Erfahrungen
 
@@ -98,51 +98,38 @@ Während dieses Workshops programmierte ich einen Roboter und erhielt Einblicke 
 
 ## 🔍 Weitere Berufseinblicke
 
-Zusätzlich konnte ich weitere Berufe kennenlernen:
-
 ### Swiss International Air Lines
 
-- Automatiker EFZ
+- Berufserkundung Automatiker EFZ
 
 ### EWZ
 
-- Kaufmann EFZ
+- Berufserkundung Kaufmann EFZ
 
 ### Roche
 
-- Pharmatechnologe EFZ
-
-Diese Erfahrungen haben mir geholfen, verschiedene Berufsfelder kennenzulernen und meine Interessen besser einzuordnen.
+- Berufserkundung Pharmatechnologe EFZ
 
 ---
 
-## 🎯 Was ich gelernt habe
+## 🎯 Was ich aus diesen Erfahrungen mitnehme
 
-Durch meine verschiedenen Erfahrungen habe ich gelernt:
-
-- Mich schnell auf neue Situationen einzustellen
-- Selbstständig zu arbeiten
-- Verantwortung zu übernehmen
-- Im Team zusammenzuarbeiten
-- Offen auf neue Menschen und Aufgaben zuzugehen
-- Technische und digitale Zusammenhänge besser zu verstehen
-
-Jede Schnupperlehre und jeder Workshop hat mein Interesse an Informatik und digitalen Technologien weiter gestärkt.
+Durch meine Schnupperlehren und Workshops konnte ich verschiedene Berufe kennenlernen und herausfinden, welche Tätigkeiten mich besonders interessieren. Dabei wurde mein Interesse an Informatik, Technologie und digitalen Lösungen weiter gestärkt.
 
 ---
 
 <p align="center">
-  <a href="{{ site.baseurl }}/index.html">🏠 Home</a> |
-  <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
-  <a href="{{ site.baseurl }}/education.html">🎓 Bildung</a> |
-  <a href="{{ site.baseurl }}/it-knowledge.html">💻 IT-Kenntnisse</a> |
-  <a href="{{ site.baseurl }}/projects.html">🚀 Projekte</strong></a> |
-  <a href="{{ site.baseurl }}/experience.html"><strong>🏢 Erfahrungen</strong></a> |
-  <a href="{{ site.baseurl }}/strengts.html">⭐ Meine Stärken</a> |
-  <a href="{{ site.baseurl }}/sports.html">🏒 Sport</a> |
-  <a href="{{ site.baseurl }}/languages.html">🌍 Sprachen</a> |
-  <a href="{{ site.baseurl }}/interests.html">🎯 Interessen</a> |
-  <a href="{{ site.baseurl }}/references.html">📞 Referenzen</a> |
-  <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> |
-  <a href="{{ site.baseurl }}/downloads.html">📁 Downloads</a>
+  <a href="{{ site.baseurl }}/index/">🏠 Home</a> |
+  <a href="{{ site.baseurl }}/about-me/">👤 Über mich</a> |
+  <a href="{{ site.baseurl }}/education/">🎓 Bildung</a> |
+  <a href="{{ site.baseurl }}/it-knowledge/">💻 IT-Kenntnisse</a> |
+  <a href="{{ site.baseurl }}/projects/">🚀 Projekte</a> |
+  <a href="{{ site.baseurl }}/experience/"><strong>🏢 Erfahrungen</strong></a> |
+  <a href="{{ site.baseurl }}/strengths/">⭐ Meine Stärken</a> |
+  <a href="{{ site.baseurl }}/sports/">🏒 Sport</a> |
+  <a href="{{ site.baseurl }}/languages/">🌍 Sprachen</a> |
+  <a href="{{ site.baseurl }}/interests/">🎯 Interessen</a> |
+  <a href="{{ site.baseurl }}/references/">📞 Referenzen</a> |
+  <a href="{{ site.baseurl }}/contact/">📬 Kontakt</a> |
+  <a href="{{ site.baseurl }}/downloads/">📁 Downloads</a>
 </p>
