@@ -4,114 +4,59 @@ title: Interessen
 
 # 🎯 Interessen
 
-Ich interessiere mich für Technologie, digitale Innovationen und die Frage, wie moderne Lösungen unseren Alltag und Unternehmen unterstützen können. Viele meiner Interessen ergänzen sich und motivieren mich, ständig Neues zu lernen und auszuprobieren.
+Neben Informatik und Sport interessiere ich mich für verschiedene Themen, die mich inspirieren und meine Neugier wecken.
 
 ---
 
-## 💻 Informatik und Softwareentwicklung
+## ✈️ Flugzeuge und Luftfahrt
 
-Informatik gehört zu meinen grössten Interessen. Besonders spannend finde ich es, Programme zu entwickeln, digitale Lösungen zu verstehen und herauszufinden, wie moderne Software funktioniert.
-
-Mich interessieren insbesondere:
-
-- Softwareentwicklung
-- App-Entwicklung
-- Webentwicklung
-- Programmierung
-- Digitale Technologien
+Flugzeuge und das Fliegen faszinieren mich schon seit vielen Jahren. Ich finde es spannend zu verstehen, wie moderne Flugzeuge funktionieren und wie Technik und Sicherheit in der Luftfahrt zusammenspielen.
 
 ---
 
-## 🤖 Künstliche Intelligenz
+## 🚄 Technik und grosse Maschinen
 
-Künstliche Intelligenz fasziniert mich, weil sie viele neue Möglichkeiten eröffnet und bereits heute zahlreiche Bereiche unseres Lebens beeinflusst.
+Mich begeistern technische Meisterleistungen und aussergewöhnliche Maschinen.
 
-Ich beschäftige mich gerne mit:
+Besonders interessant finde ich:
 
-- KI-Tools
-- Chatbots
-- Automatisierung
-- Prompt Engineering
-- Zukunftstechnologien
+- Kreuzfahrtschiffe
+- Hochgeschwindigkeitszüge
+- Grosse Bergbaumaschinen
+- Moderne Verkehrssysteme
 
----
-
-## 🛒 E-Commerce und digitale Geschäftsmodelle
-
-Durch meinen eigenen Shopify-Onlineshop habe ich ein grosses Interesse an E-Commerce entwickelt.
-
-Besonders spannend finde ich:
-
-- Onlinehandel
-- Digitale Geschäftsmodelle
-- Benutzerfreundliche Webseiten
-- Digitales Marketing
-- Unternehmertum
+Ich finde es spannend zu sehen, wie solche komplexen Systeme geplant, gebaut und betrieben werden.
 
 ---
 
-## 💰 Finanzwelt und FinTech
+## 🌍 Andere Kulturen und internationales Essen
 
-Neben der Informatik interessiere ich mich auch für die Finanzwelt. Besonders spannend finde ich die Verbindung von Technologie und Finanzdienstleistungen.
+Ich interessiere mich für andere Kulturen und ihre Lebensweisen. Durch Freunde aus verschiedenen Ländern konnte ich viele neue Perspektiven kennenlernen.
 
-Themen, die mich interessieren:
-
-- Banken
-- Digitale Finanzlösungen
-- FinTech
-- Innovationen im Finanzbereich
+Besonders gerne probiere ich Gerichte aus anderen Ländern aus. Die asiatische und die österreichische Küche gehören zu meinen Favoriten.
 
 ---
 
-## ✈️ Luftfahrt und Technik
+## 🌍 Technologie und die Welt
 
-Technische Systeme und moderne Technologien begeistern mich seit vielen Jahren. Deshalb interessieren mich auch die Luftfahrt und die dahinterstehenden technischen Lösungen.
+Ich interessiere mich für neue Technologien und dafür, wie verschiedene Dinge funktionieren. Spannend finde ich technische Entwicklungen, interessante Themen aus der Welt und den Austausch mit Menschen aus unterschiedlichen Kulturen.
 
----
-
-## 🎨 Präsentationen und Design
-
-Ich gestalte gerne PowerPoint-Präsentationen und arbeite mit digitalen Werkzeugen, um Informationen übersichtlich und ansprechend darzustellen.
-
-Dabei interessieren mich:
-
-- Präsentationsdesign
-- Visualisierung von Informationen
-- Animationen
-- Digitale Medien
-
----
-
-## 🏊 Freizeit und Sport
-
-In meiner Freizeit betreibe ich gerne Sport. Besonders wichtig sind für mich:
-
-- Schwimmen
-- Radfahren
-- Eishockey
-
-Sport hilft mir, einen Ausgleich zum Schulalltag zu schaffen und neue Energie zu tanken.
-
----
-
-## 🎯 Mein Antrieb
-
-Mich motiviert die Möglichkeit, ständig Neues zu lernen und mich weiterzuentwickeln. Besonders spannend finde ich es, neue Technologien kennenzulernen und herauszufinden, wie sie praktisch eingesetzt werden können.
+Ich entdecke gerne neue Themen und freue mich, wenn ich etwas verstehen oder ausprobieren kann, das ich vorher noch nicht kannte.
 
 ---
 
 <p align="center">
-  <a href="{{ site.baseurl }}/index.html">🏠 Home</a> |
-  <a href="{{ site.baseurl }}/about-me.html">👤 Über mich</a> |
-  <a href="{{ site.baseurl }}/education.html">🎓 Bildung</a> |
-  <a href="{{ site.baseurl }}/it-knowledge.html">💻 IT-Kenntnisse</a> |
-  <a href="{{ site.baseurl }}/projects.html">🚀 Projekte</a> |
-  <a href="{{ site.baseurl }}/experience.html">🏢 Erfahrungen</a> |
-  <a href="{{ site.baseurl }}/strengths.html">⭐ Meine Stärken</a> |
-  <a href="{{ site.baseurl }}/sports.html">🏒 Sport</a> |
-  <a href="{{ site.baseurl }}/languages.html">🌍 Sprachen</a> |
-  <a href="{{ site.baseurl }}/interests.html"><strong>🎯 Interessen</strong></a> |
-  <a href="{{ site.baseurl }}/references.html">📞 Referenzen</a> |
-  <a href="{{ site.baseurl }}/contact.html">📬 Kontakt</a> |
-  <a href="{{ site.baseurl }}/downloads.html">📁 Downloads</a>
+  <a href="{{ site.baseurl }}/">🏠 Home</a> |
+  <a href="{{ site.baseurl }}/about-me/">👤 Über mich</a> |
+  <a href="{{ site.baseurl }}/education/">🎓 Bildung</a> |
+  <a href="{{ site.baseurl }}/it-knowledge/">💻 IT-Kenntnisse</a> |
+  <a href="{{ site.baseurl }}/projects/">🚀 Projekte</a> |
+  <a href="{{ site.baseurl }}/experience/">🏢 Erfahrungen</a> |
+  <a href="{{ site.baseurl }}/strengths/">⭐ Meine Stärken</a> |
+  <a href="{{ site.baseurl }}/sports/">🏒 Sport</a> |
+  <a href="{{ site.baseurl }}/languages/">🌍 Sprachen</a> |
+  <a href="{{ site.baseurl }}/interests/"><strong>🎯 Interessen</strong></a> |
+  <a href="{{ site.baseurl }}/references/">📞 Referenzen</a> |
+  <a href="{{ site.baseurl }}/contact/">📬 Kontakt</a> |
+  <a href="{{ site.baseurl }}/downloads/">📁 Downloads</a>
 </p>
