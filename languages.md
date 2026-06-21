@@ -19,7 +19,7 @@ Sprachen ermöglichen es mir, mit Menschen aus unterschiedlichen Ländern und Ku
 
 - Gute Kenntnisse
 - Besonderes Interesse an der englischen Sprache
-- Nutzung im Internet, bei technischen Themen und digitalen Medien
+- Regelmässige Anwendung im Internet, auf Reisen und bei der Nutzung englischsprachiger Inhalte
 
 ---
 
