@@ -30,7 +30,7 @@ Meine schulische Laufbahn hat mir eine gute Grundlage für meine zukünftige Aus
 ---
 
 <p align="center">
-  <a href="{{ site.baseurl }}/index/">🏠 Home</a> |
+  <a href="{{ site.baseurl }}/">🏠 Home</a> |
   <a href="{{ site.baseurl }}/about-me/">👤 Über mich</a> |
   <a href="{{ site.baseurl }}/education/"><strong>🎓 Bildung</strong></a> |
   <a href="{{ site.baseurl }}/it-knowledge/">💻 IT-Kenntnisse</a> |
