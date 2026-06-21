@@ -6,11 +6,17 @@ title: Über mich
 
 Mein Name ist **Alexander Berditschewski** und ich interessiere mich seit mehreren Jahren für **Informatik, neue Technologien und die Finanzwelt**. Besonders spannend finde ich es, digitale Lösungen zu entwickeln und zu verstehen, wie Technologie Menschen und Unternehmen im Alltag unterstützt.
 
-Durch verschiedene Schnupperlehren und Workshops bei **UBS, Julius Bär, Siemens und Zürich Versicherung** konnte ich bereits erste praktische Erfahrungen in der Informatik sammeln. Dabei entwickelte ich einen einfachen KI-Chatbot und arbeitete mit **Android Studio, Kotlin und XML** an einer Android-App.
+Durch verschiedene Schnupperlehren und Workshops bei **UBS, Julius Bär, Siemens und Zürich Versicherung** konnte ich bereits erste praktische Erfahrungen in der Informatik sammeln. Dabei erhielt ich Einblicke in die Softwareentwicklung, Künstliche Intelligenz und digitale Technologien.
 
-Neben diesen Erfahrungen arbeite ich auch an eigenen Projekten. Dazu gehören ein **Shopify-Onlineshop** sowie meine selbst entwickelte **digitale Bewerbungsmappe mit GitHub Pages**. Bei diesen Projekten lerne ich, digitale Werkzeuge einzusetzen, Probleme eigenständig zu lösen und neue Technologien praktisch anzuwenden.
+Neben diesen Erfahrungen arbeite ich auch an eigenen Projekten. Dazu gehören ein eigener Onlineshop sowie meine digitale Bewerbungsmappe. Dabei lerne ich, neue Technologien einzusetzen, Probleme zu lösen und selbstständig an Projekten zu arbeiten.
 
-Zur Unterstützung nutze ich moderne KI-Tools wie **ChatGPT** und **Claude**. Dabei habe ich gelernt, dass gute Ergebnisse klare Fragestellungen und genügend Kontext voraussetzen. Gleichzeitig ist es wichtig, ein Thema selbst zu verstehen, um die Antworten kritisch beurteilen und sinnvoll nutzen zu können.
+Zur Unterstützung nutze ich moderne KI-Tools. Dabei habe ich gelernt, dass gute Ergebnisse klare Fragestellungen und genügend Kontext voraussetzen. Gleichzeitig ist es wichtig, ein Thema selbst zu verstehen, um die Antworten kritisch beurteilen und sinnvoll nutzen zu können.
+
+Neben der Informatik interessiere ich mich auch sehr für **Flugzeuge und das Fliegen**. Allgemein faszinieren mich technische Meisterleistungen wie **Kreuzfahrtschiffe, grosse Bergbaumaschinen, Hochgeschwindigkeitszüge** und andere aussergewöhnliche Maschinen. Ich finde es spannend zu verstehen, wie solche komplexen Systeme funktionieren und entwickelt werden.
+
+Neben Technik interessieren mich auch andere Kulturen und ihre Essgewohnheiten. In der Schule hatte ich das Glück, Freunde aus verschiedenen Ländern und Kulturen kennenzulernen, darunter **China, Brasilien, Griechenland, Grossbritannien, Sri Lanka (Tamilen), die Schweiz und Deutschland**.
+
+Dadurch habe ich viele neue Perspektiven kennengelernt und erfahren, wie unterschiedlich Menschen leben, denken und essen. Besonders gerne probiere ich Gerichte aus anderen Ländern aus. Die **asiatische Küche** sowie die **österreichische Küche** gehören zu meinen Favoriten. Ich finde den Austausch mit Menschen aus verschiedenen Kulturen sehr spannend und bereichernd.
 
 ---
 
@@ -31,7 +37,7 @@ Ich arbeite gerne selbstständig an eigenen Projekten und freue mich darauf, mei
 ---
 
 <p align="center">
-  <a href="{{ site.baseurl }}/index/">🏠 Home</a> |
+  <a href="{{ site.baseurl }}/">🏠 Home</a> |
   <a href="{{ site.baseurl }}/about-me/"><strong>👤 Über mich</strong></a> |
   <a href="{{ site.baseurl }}/education/">🎓 Bildung</a> |
   <a href="{{ site.baseurl }}/it-knowledge/">💻 IT-Kenntnisse</a> |
