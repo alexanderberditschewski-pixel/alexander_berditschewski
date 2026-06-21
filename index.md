@@ -20,6 +20,8 @@ Motivierter und vielseitiger Sekundarschüler mit grossem Interesse an Informati
 
 Durch verschiedene Schnupperlehren, eigene Projekte und die Entwicklung eines Shopify-Onlineshops konnte ich bereits erste praktische Erfahrungen sammeln. Ich arbeite gerne selbstständig, nutze moderne KI-Tools zum Lernen und erweitere mein Wissen kontinuierlich.
 
+<br><br>
+
 ### 🎯 Mein Ziel
 
 Mein Ziel ist es, eine Lehre als Informatiker EFZ Applikationsentwicklung oder als Entwickler/in Digitales Business zu absolvieren. Dabei möchte ich mein Interesse an Informatik, neuen Technologien und digitalen Lösungen weiter vertiefen und praktische Erfahrungen sammeln.
