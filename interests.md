@@ -8,24 +8,23 @@ Neben Informatik und Sport interessiere ich mich für verschiedene Themen, die m
 
 ---
 
-## ✈️ Flugzeuge und Luftfahrt
+## 🌍 Technologie und die Welt
 
-Flugzeuge und das Fliegen faszinieren mich schon seit vielen Jahren. Ich finde es spannend zu verstehen, wie moderne Flugzeuge funktionieren und wie Technik und Sicherheit in der Luftfahrt zusammenspielen.
+Ich interessiere mich für neue Technologien und dafür, wie verschiedene Dinge funktionieren. Spannend finde ich technische Entwicklungen, interessante Themen aus der Welt und den Austausch mit Menschen aus unterschiedlichen Kulturen.
+
+Besonders faszinieren mich Fragen wie: Wie kann ein so grosses Flugzeug wie der A380 fliegen, wie werden Hochgeschwindigkeitszüge mit über 300 km/h gesteuert oder wie funktioniert Künstliche Intelligenz?
+
+Ich entdecke gerne neue Themen und freue mich, wenn ich etwas verstehen oder ausprobieren kann, das ich vorher noch nicht kannte.
 
 ---
 
-## 🚄 Technik und grosse Maschinen
+## ✈️ Flugzeuge und Luftfahrt
 
-Mich begeistern technische Meisterleistungen und aussergewöhnliche Maschinen.
+Flugzeuge und das Fliegen faszinieren mich schon seit vielen Jahren. Besonders spannend finde ich die Vorstellung, selbst ein Flugzeug zu steuern und die Erde aus der Luft zu beobachten.
 
-Besonders interessant finde ich:
+In Flugsimulatoren fliege ich gerne zu verschiedenen Flughäfen auf der ganzen Welt. Dabei finde ich es spannend, neue Regionen kennenzulernen und verschiedene Anflüge und Flughäfen zu erkunden.
 
-- Kreuzfahrtschiffe
-- Hochgeschwindigkeitszüge
-- Grosse Bergbaumaschinen
-- Moderne Verkehrssysteme
-
-Ich finde es spannend zu sehen, wie solche komplexen Systeme geplant, gebaut und betrieben werden.
+Ich finde es beeindruckend, wie anders Landschaften, Städte und Regionen von oben aussehen. Gleichzeitig interessiert es mich, wie moderne Flugzeuge funktionieren und sicher durch die Luft fliegen.
 
 ---
 
@@ -34,14 +33,6 @@ Ich finde es spannend zu sehen, wie solche komplexen Systeme geplant, gebaut und
 Ich interessiere mich für andere Kulturen und ihre Lebensweisen. Durch Freunde aus verschiedenen Ländern konnte ich viele neue Perspektiven kennenlernen.
 
 Besonders gerne probiere ich Gerichte aus anderen Ländern aus. Die asiatische und die österreichische Küche gehören zu meinen Favoriten.
-
----
-
-## 🌍 Technologie und die Welt
-
-Ich interessiere mich für neue Technologien und dafür, wie verschiedene Dinge funktionieren. Spannend finde ich technische Entwicklungen, interessante Themen aus der Welt und den Austausch mit Menschen aus unterschiedlichen Kulturen.
-
-Ich entdecke gerne neue Themen und freue mich, wenn ich etwas verstehen oder ausprobieren kann, das ich vorher noch nicht kannte.
 
 ---
 
