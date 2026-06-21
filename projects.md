@@ -4,7 +4,7 @@ title: Projekte
 
 # 🚀 Projekte
 
-Auf dieser Seite stelle ich einige Projekte vor, an denen ich gearbeitet habe. Dabei konnte ich praktische Erfahrungen sammeln und meine Kenntnisse in Informatik, digitalen Technologien und Problemlösung erweitern.
+Auf dieser Seite stelle ich einige Projekte vor, an denen ich gearbeitet habe. Dabei konnte ich Neues lernen und erste Erfahrungen mit Informatik und digitalen Technologien sammeln.
 
 ---
 
@@ -12,18 +12,18 @@ Auf dieser Seite stelle ich einige Projekte vor, an denen ich gearbeitet habe. D
 
 ### Projektbeschreibung
 
-Für meine Bewerbungen als Informatiker EFZ Applikationsentwicklung und Entwickler Digitales Business habe ich eine eigene digitale Bewerbungsmappe entwickelt und veröffentlicht.
+Für meine Bewerbungen als Informatiker EFZ Applikationsentwicklung und Entwickler Digitales Business habe ich diese eigene digitale Bewerbungsmappe erstellt und veröffentlicht.
 
-Die Website wurde mit GitHub Pages erstellt und enthält meinen Lebenslauf, Informationen zu meinen Projekten, Berufserfahrungen, IT-Kenntnissen sowie weitere Bewerbungsunterlagen.
+Die Website enthält meinen Lebenslauf, Informationen zu meinen Projekten, Berufserfahrungen, IT-Kenntnissen und weiteren Bewerbungsunterlagen.
 
 ### Was ich gelernt habe
 
 - Eine Website selbstständig erstellen und veröffentlichen
 - Mit GitHub arbeiten
 - Inhalte übersichtlich strukturieren
-- Technische Probleme analysieren und lösen
+- Technische Probleme lösen
 - Eine benutzerfreundliche Website gestalten
-- KI-Tools wie ChatGPT und Claude gezielt zur Unterstützung bei Entwicklung, Recherche und Problemlösung einsetzen
+- KI-Tools wie ChatGPT und Claude gezielt zur Unterstützung nutzen
 - Ergebnisse von KI-Tools kritisch prüfen und anwenden
 
 ### Verwendete Technologien
@@ -32,7 +32,6 @@ Die Website wurde mit GitHub Pages erstellt und enthält meinen Lebenslauf, Info
 - GitHub Pages
 - Markdown
 - HTML
-- CSS
 - ChatGPT
 - Claude
 
@@ -42,11 +41,38 @@ Die Website wurde mit GitHub Pages erstellt und enthält meinen Lebenslauf, Info
 
 ---
 
+## 🎿 Französisch-Präsentation: Skifahren
+
+### Projektbeschreibung
+
+Im Französischunterricht habe ich eine Präsentation zum Thema Skifahren erstellt und vor der Klasse präsentiert.
+
+### Was ich gelernt habe
+
+- Informationen zu recherchieren
+- Inhalte verständlich zu erklären
+- Eine Präsentation zu gestalten
+- Vor einer Gruppe zu präsentieren
+- Mit Animationen und Effekten in PowerPoint zu arbeiten
+
+### Verwendete Technologien
+
+- Microsoft PowerPoint
+- Internetrecherche
+
+### Präsentation ansehen
+
+📥 [Französisch-Präsentation Skifahren](assets/files/Ski_French.ppt)
+
+> ℹ️ Hinweis: Die Präsentation enthält Animationen und Übergänge. Für das beste Erlebnis sollte sie im PowerPoint-Präsentationsmodus geöffnet werden.
+
+---
+
 ## 🛒 Shopify-Onlineshop
 
 ### Projektbeschreibung
 
-Ich entwickle einen eigenen Onlineshop mit Shopify und sammle dabei praktische Erfahrungen im Bereich E-Commerce und digitale Technologien.
+Ich entwickle einen eigenen Onlineshop mit Shopify und sammle dabei erste Erfahrungen im Bereich E-Commerce und digitale Technologien.
 
 ### Was ich gelernt habe
 
@@ -54,7 +80,7 @@ Ich entwickle einen eigenen Onlineshop mit Shopify und sammle dabei praktische E
 - Produkte und Inhalte pflegen
 - Probleme selbstständig lösen
 - Mit digitalen Werkzeugen arbeiten
-- Eigenverantwortlich an einem Projekt arbeiten
+- Selbstständig an einem Projekt arbeiten
 
 ### Verwendete Technologien
 
@@ -73,15 +99,15 @@ Während einer Schnupperlehre entwickelte ich einen einfachen KI-Chatbot und erh
 ### Was ich gelernt habe
 
 - Grundlagen von Künstlicher Intelligenz
-- Strukturierte Problemlösung
-- Prompt Engineering
-- Bedeutung von Kontext und präzisen Fragestellungen
+- Probleme Schritt für Schritt zu lösen
+- Gute Fragen an KI-Systeme zu stellen
+- Klare Anweisungen und genügend Informationen zu geben
 
 ### Verwendete Technologien
 
 - KI-Modelle
 - Chatbots
-- Digitale Entwicklungsumgebungen
+- Programmierumgebungen
 
 ---
 
@@ -89,12 +115,12 @@ Während einer Schnupperlehre entwickelte ich einen einfachen KI-Chatbot und erh
 
 ### Projektbeschreibung
 
-Während meiner Schnupperlehre bei Siemens entwickelte ich eine einfache Android-App und erhielt Einblicke in die mobile Softwareentwicklung.
+Während meiner Schnupperlehre bei Siemens entwickelte ich eine einfache Android-App und erhielt erste Einblicke in die mobile Softwareentwicklung.
 
 ### Was ich gelernt habe
 
-- Aufbau einer Android-Anwendung
-- Entwicklung von Benutzeroberflächen
+- Aufbau einer Android-App
+- Benutzeroberflächen gestalten
 - Grundlagen der App-Programmierung
 
 ### Verwendete Technologien
@@ -105,43 +131,34 @@ Während meiner Schnupperlehre bei Siemens entwickelte ich eine einfache Android
 
 ---
 
-## 🎨 Präsentationen und Schulprojekte
+## 🎨 Weitere Schulprojekte
 
-### Projektbeschreibung
+Neben diesen Projekten habe ich in der Schule verschiedene Arbeiten mit Scratch umgesetzt. Dazu gehören unter anderem:
 
-In der Schule arbeite ich regelmässig an Präsentationen und Projektarbeiten. Besonders gerne gestalte und präsentiere ich PowerPoint-Präsentationen.
+- Geometry Dash
+- Flappy Bird
+- Basketball-Spiel
+- Ping-Pong-Spiel
 
-### Was ich gelernt habe
-
-- Informationen verständlich aufbereiten
-- Professionelle Präsentationen gestalten
-- Kreativer Einsatz von Design und Animationen
-- Selbstsicheres Präsentieren vor Gruppen
-
-### Verwendete Technologien
-
-- Microsoft PowerPoint
-- Microsoft Office
-- Digitale Recherchewerkzeuge
+Dabei konnte ich erste Erfahrungen im Programmieren sammeln und mein logisches Denken weiterentwickeln.
 
 ---
 
 ## 🔮 Zukünftige Projekte
 
-Ich interessiere mich besonders für Projekte in den Bereichen:
+In Zukunft möchte ich weitere Erfahrungen in folgenden Bereichen sammeln:
 
 - Softwareentwicklung
 - App-Entwicklung
 - Künstliche Intelligenz
 - Digitale Geschäftsmodelle
-- FinTech
 - Webentwicklung
 
 ---
 
 ## 🎯 Was ich aus meinen Projekten mitnehme
 
-Alle Projekte haben mir gezeigt, wie wichtig Neugier, Eigeninitiative und kontinuierliches Lernen sind. Besonders spannend finde ich es, neue Technologien auszuprobieren und praktische Lösungen für reale Probleme zu entwickeln.
+Meine Projekte haben mir gezeigt, wie wichtig Neugier, Eigeninitiative und Ausdauer sind. Besonders spannend finde ich es, neue Technologien auszuprobieren und eigene Ideen umzusetzen.
 
 ---
 
