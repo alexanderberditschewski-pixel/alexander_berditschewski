@@ -18,7 +18,7 @@ Hier finden Sie meine wichtigsten Bewerbungsunterlagen sowie Teilnahmebestätigu
 
 ## 📄 Lebenslauf
 
-[📥 Öffentliche Version des Lebenslaufs herunterladen]({{ site.baseurl }}/assets/files/Alexander_Berditschewski_CV.pdf)
+[📥 Öffentliche Version des Lebenslaufs herunterladen]({{ site.baseurl }}/assets/files/Alexander_Berditschewski_CV_Public.pdf)
 
 ---
 
