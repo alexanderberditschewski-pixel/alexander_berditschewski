@@ -12,11 +12,11 @@ Ausserdem arbeite ich auch an eigenen Projekten. Dazu gehören die Weiterentwick
 
 Zur Unterstützung nutze ich moderne KI-Tools. Dabei habe ich gelernt, dass gute Ergebnisse klare Fragestellungen und genügend Kontext voraussetzen. Gleichzeitig ist es wichtig, ein Thema selbst zu verstehen, um die Antworten kritisch zu beurteilen und sinnvoll nutzen zu können.
 
-Auch fasziniert mich auch die Welt der Flugzeuge und der Luftfahrt. Allgemein begeistern mich technische Meisterleistungen wie Kreuzfahrtschiffe, schnelle Formel-1-Rennautos, Hochgeschwindigkeitszüge und andere aussergewöhnliche Maschinen. Ich finde es spannend zu verstehen, wie solche beeindruckenden Maschinen aufgebaut sind und funktionieren.
+Auch fasziniert mich die Welt der Flugzeuge und der Luftfahrt. Allgemein begeistern mich technische Meisterleistungen wie Kreuzfahrtschiffe, schnelle Formel-1-Rennautos, Hochgeschwindigkeitszüge und andere aussergewöhnliche Maschinen. Ich finde es spannend zu verstehen, wie solche beeindruckenden Maschinen aufgebaut sind und funktionieren.
 
 Mich interessieren auch andere Kulturen und ihre Traditionen, insbesondere ihre kulinarischen Spezialitäten. In der Schule habe ich das Glück, Freunde aus verschiedenen Ländern und Kulturen kennenzulernen, darunter China, Brasilien, Griechenland, Grossbritannien, die Schweiz und Deutschland.
 
-Dadurch habe ich viele neue Perspektiven kennengelernt und erfahren, wie unterschiedlich Menschen leben, denken und essen. Besonders gerne probiere ich Gerichte aus anderen Ländern aus. Die asiatische Küche sowie die österreichische Küche gehören zu meinen Favoriten.
+Dadurch habe ich viele neue Perspektiven kennengelernt und erfahren, wie unterschiedlich Menschen leben und essen. Besonders gerne probiere ich Gerichte aus anderen Ländern aus. Die asiatische Küche sowie die österreichische Küche gehören zu meinen Favoriten.
 
 ---
 
