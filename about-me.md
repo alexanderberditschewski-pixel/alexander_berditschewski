@@ -8,13 +8,13 @@ Mein Name ist Alexander Berditschewski und ich interessiere mich seit mehreren J
 
 Durch verschiedene Schnupperlehren und Workshops bei UBS, Julius Bär, Siemens und Zürich Versicherung konnte ich bereits erste praktische Erfahrungen in der Informatik sammeln. Dabei erhielt ich Einblicke in die Softwareentwicklung, Künstliche Intelligenz und digitale Technologien.
 
-Neben diesen Erfahrungen arbeite ich auch an eigenen Projekten. Dazu gehören die Weiterentwicklung meines eigenen Onlineshops sowie diese digitale Bewerbungsmappe. Dabei lerne ich, neue Technologien einzusetzen, Probleme zu lösen und Projekte selbstständig umzusetzen.
+Ausserdem arbeite ich auch an eigenen Projekten. Dazu gehören die Weiterentwicklung meines eigenen Onlineshops sowie diese digitale Bewerbungsmappe. Dabei lerne ich, neue Technologien einzusetzen, Probleme zu lösen und Projekte selbstständig umzusetzen.
 
 Zur Unterstützung nutze ich moderne KI-Tools. Dabei habe ich gelernt, dass gute Ergebnisse klare Fragestellungen und genügend Kontext voraussetzen. Gleichzeitig ist es wichtig, ein Thema selbst zu verstehen, um die Antworten kritisch zu beurteilen und sinnvoll nutzen zu können.
 
-Neben der Informatik fasziniert mich auch die Welt der Flugzeuge und der Luftfahrt. Allgemein begeistern mich technische Meisterleistungen wie Kreuzfahrtschiffe, schnelle Formel-1-Rennautos, Hochgeschwindigkeitszüge und andere aussergewöhnliche Maschinen. Ich finde es spannend zu verstehen, wie solche beeindruckenden Maschinen aufgebaut sind und funktionieren.
+Auch fasziniert mich auch die Welt der Flugzeuge und der Luftfahrt. Allgemein begeistern mich technische Meisterleistungen wie Kreuzfahrtschiffe, schnelle Formel-1-Rennautos, Hochgeschwindigkeitszüge und andere aussergewöhnliche Maschinen. Ich finde es spannend zu verstehen, wie solche beeindruckenden Maschinen aufgebaut sind und funktionieren.
 
-Neben Technik interessieren mich auch andere Kulturen und ihre Traditionen, insbesondere ihre kulinarischen Spezialitäten. In der Schule habe ich das Glück, Freunde aus verschiedenen Ländern und Kulturen kennenzulernen, darunter China, Brasilien, Griechenland, Grossbritannien, die Schweiz und Deutschland.
+Mich interessieren auch andere Kulturen und ihre Traditionen, insbesondere ihre kulinarischen Spezialitäten. In der Schule habe ich das Glück, Freunde aus verschiedenen Ländern und Kulturen kennenzulernen, darunter China, Brasilien, Griechenland, Grossbritannien, die Schweiz und Deutschland.
 
 Dadurch habe ich viele neue Perspektiven kennengelernt und erfahren, wie unterschiedlich Menschen leben, denken und essen. Besonders gerne probiere ich Gerichte aus anderen Ländern aus. Die asiatische Küche sowie die österreichische Küche gehören zu meinen Favoriten.
 
