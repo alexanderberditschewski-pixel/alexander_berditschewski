@@ -77,6 +77,7 @@ In Zukunft möchte ich:
 - Meine Ausdauer und Fitness kontinuierlich verbessern
 - Körperlich stärker und leistungsfähiger werden
 - Einen gesunden und sportlichen Lebensstil langfristig beibehalten
+- Meine Ziele erreichen 
 
 Diese Ziele motivieren mich, regelmässig zu trainieren, Disziplin zu zeigen und kontinuierlich an mir zu arbeiten.
 
